@@ -1,8 +1,6 @@
 #-----------------------
 # file2
 #-----------------------
-H>  Could Ancient Remedies Hold the Answer to the Looming Antibiotics Crisis?
-H>-----
-H> Line for C2
->--------
-H>--Finish C4---
+Could Ancient Remedies Hold the Answer 
+to the Looming Antibiotics Crisis?
+#------------EOF--------------

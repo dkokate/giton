@@ -1,14 +1,6 @@
-#---------------------
-# file 1
-G> Hello !!
-H> To be used by all
-H> added line for C2
-#---------------------
-G>---Done in C3---
-H> Utility 
-H>---
-H> Some more lines for C2
-H>-----
-H> Done in C3
-H>---Finish C3----
-H>----Finish C4---
+#----------------
+file 1
+#----------------
+Adjhh jdqhj hhdjhqj
+hjh jdhj dhj  qhdkdkwdkkd
+#----------EOF----------
